@@ -1,8 +1,8 @@
-# Joost Dolstra
+# Joost
 
-AI engineer. I build agentic systems and local-first tools, and I ship them.
+AI engineer & Agentic developer.
 
-Right now I'm building in public: agent infrastructure, developer tooling, and macOS apps.
+Right, now I'm building in public: agent infrastructure, developer tooling, and macOS apps.
 
 ## Projects
 
